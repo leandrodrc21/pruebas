@@ -1,0 +1,108 @@
+{
+  "configVersion": 1,
+  "timestamp": 1636489414073,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.f54179499366be0bcf34.js",
+        "/manifest.webmanifest",
+        "/polyfills.522c3561ab47be9403b3.js",
+        "/runtime.acf0dec4155e77772545.js",
+        "/styles.0c5cb99bce41875dd4b8.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/admin.jpg",
+        "/assets/img/empleado.jpg",
+        "/assets/img/fondo1.jpg",
+        "/assets/img/fondo2.jpg",
+        "/assets/img/logoPraga.jpg",
+        "/assets/img/menu.jpg",
+        "/assets/img/registrar.jpg",
+        "/assets/ng-select.css",
+        "/assets/parameter.json",
+        "/assets/plantillas/layout_entrada_materiales.xlsx",
+        "/assets/plantillas/layout_modelo_precio.xlsx",
+        "/assets/plantillas/plantilla.xls",
+        "/assets/workspace.code-workspace",
+        "/fondo2.0aea3e4bc47ceeda659c.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "dc3cfe783255eb4c24777b4bdc5fa0781b691c33",
+    "/assets/icons/icon-144x144.png": "8faade69916410a2aafc568021de6cca7294d21d",
+    "/assets/icons/icon-152x152.png": "be0cf84fd9fb64efc31fdb0fa9c03d790044efd1",
+    "/assets/icons/icon-192x192.png": "a8019cd01a91b10599edf93f94de4168d6bb483f",
+    "/assets/icons/icon-384x384.png": "5c3fe777fc86989883518902d0dbb560a2f41412",
+    "/assets/icons/icon-512x512.png": "f3755c19b72c8734d02cb68ad67e297beae62ea1",
+    "/assets/icons/icon-72x72.png": "430f11116778e44ece2cde3f03201ff7e473e6d2",
+    "/assets/icons/icon-96x96.png": "1047d6914e7090980b399fb28a8f2de88d42f4c8",
+    "/assets/img/admin.jpg": "8b09b1fae8b4677824ada3550385acdd5529b2e5",
+    "/assets/img/empleado.jpg": "1e4e8d3a813b4c5d18c081952c64224e9a401b13",
+    "/assets/img/fondo1.jpg": "4af58c88061f44b69b9065499f8ffb7a7bb6a63b",
+    "/assets/img/fondo2.jpg": "69f936398d6f880c1fe8d3d669faeb9fdbeaea41",
+    "/assets/img/logoPraga.jpg": "197fdb0a9dea26d373c5d62b3d5e5c617be372a0",
+    "/assets/img/menu.jpg": "155391aa071660c1e83b539952a4774b409d1d30",
+    "/assets/img/registrar.jpg": "dc60193a1c6f352ffc7a0ef6c3df38375e32b33f",
+    "/assets/ng-select.css": "f2c5124a23f25892389151f7a6316442c8604b0e",
+    "/assets/parameter.json": "9fa428b7ff169b0a45bb0aea5418203af2dcb20d",
+    "/assets/plantillas/layout_entrada_materiales.xlsx": "5cf57ecb31fb75234886b1e2295c2c12219ec983",
+    "/assets/plantillas/layout_modelo_precio.xlsx": "e0a5856f1e201f59e48cb1a43483a441e9095e70",
+    "/assets/plantillas/plantilla.xls": "fd5b5a6ae8a8f8c9ea644c80f2e04421c947d357",
+    "/assets/workspace.code-workspace": "bf9ba00a10b38bf120a6f7555c22ea8e6bb65ecc",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/fondo2.0aea3e4bc47ceeda659c.jpg": "69f936398d6f880c1fe8d3d669faeb9fdbeaea41",
+    "/index.html": "70366a99d952e2a18a72abaf25859bb6c7e4dec6",
+    "/main.f54179499366be0bcf34.js": "8a935fdda4eee8b1c89cb6d5994baa1a29641bcd",
+    "/manifest.webmanifest": "2dac11e97468a967b58b316adce0fadc6b2fd9bc",
+    "/polyfills.522c3561ab47be9403b3.js": "8fe5083932f568cb704ef36314e8617dfc78e2cd",
+    "/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/styles.0c5cb99bce41875dd4b8.css": "f2a0aca7ef61ab154a23c665ce601b0164f883b0"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
